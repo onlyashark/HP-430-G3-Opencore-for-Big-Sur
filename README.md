@@ -6,7 +6,7 @@
 
 
 
-For other versions|[Click Here](https://github.com/ryzenthreadripper9453/HP-430-G3-opencore)
+For other versions [Click Here](https://github.com/ryzenthreadripper9453/HP-430-G3-opencore)
 
 ![](hackintosh_laptop.png)
 
