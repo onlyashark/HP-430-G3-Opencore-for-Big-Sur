@@ -1,8 +1,8 @@
 # HP_430_G3_opencore_for_big_sur
 
-[![macOS](https://img.shields.io/badge/macOS-11.1-orange)]
+[![macOS](https://img.shields.io/badge/macOS-11.1-orange)](https://www.apple.com/macos/big-sur/)
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.4-9cf)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.4-9cf)](https://dortania.github.io/OpenCore-Install-Guide/)
 
 
 
