@@ -1,4 +1,4 @@
-# HP_430_G3_opencore_for_big_sur
+# HP 430 G3 Opencore for Big Sur
 
 [![macOS](https://img.shields.io/badge/macOS-11.1-orange)](https://www.apple.com/macos/big-sur/)
 
