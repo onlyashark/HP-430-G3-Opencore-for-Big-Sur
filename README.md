@@ -70,3 +70,4 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 
 ### Warning
 - System time will be reset to 1999/12/31 08:00
+- If you want to use iPhone hot spot,please use bcm94360cs2
