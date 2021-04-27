@@ -19,7 +19,6 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 - 13.3 1366x768 Display
 - Dell DW1560 (BCM94352Z)
 - Synaptics PS2 TouchPad
-- Intel Dual Band Wi-Fi and Bluetooth Card (Will Replace)
 - 2 USB 3.0 Ports, 1 USB 2.0 Ports
 - HDMI Port
 - SD Card Reader
@@ -70,4 +69,4 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 
 ### Warning
 - System time will be reset to 1999/12/31 08:00
-- If you want to use iPhone hot spot,please use bcm94360cs2
+- If you want to use iPhone hot spot,please use bcm94360ng
