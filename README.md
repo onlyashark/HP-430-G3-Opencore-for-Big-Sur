@@ -12,7 +12,7 @@ For other versions [Click Here](https://github.com/ryzenthreadripper9453/HP-430-
 
 OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 
-### Laptop Specifications:
+## Laptop Specifications:
 - Intel Core i5 6200U CPU (Skylake)
 - Intel HD 520 Graphics
 - 12GB DDR4-2133MHz RAM
@@ -24,7 +24,7 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 - SD Card Reader
 - Intel SATA SSD 180G+WD M.2 SATA 240G SSD
 
-### BIOS Setup:
+## BIOS Setup:
 - Disable Fast Boot
 - Disable Power On when AC Detected
 - Disable Power On when Lid is Opened
@@ -43,7 +43,7 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 - Disable Wake on USB
 - Enable Power Control
 
-### What works:
+## What works:
 - macOS Big Sur 11.1
 - UEFI booting via OpenCore
 - Built-in keyboard (with special function keys)
@@ -63,10 +63,10 @@ OpenCore 0.6.4 setup for running Hackintosh on HP ProBook 430 G3
 - Audio on internal speaker and headphone
 - Sleep and Wake
 
-### What doesn't work:
+## What doesn't work:
 - FingerPrint Reader
 - SD Card Reader
 
-### Warning
+## Warning
 - System time will be reset to 1999/12/31 08:00
-- If you want to use iPhone hot spot,please use bcm94360ng
+- If you want to use iPhone hot spot,please use [BCM94360NG](https://www.ruten.com.tw/find/?q=bcm94360ng)
